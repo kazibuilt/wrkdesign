@@ -1,0 +1,8 @@
+import{U as u,B as g}from"./main-biu6-4ID.js";import{Q as N,N as V,V as _,M as j,X as z,W as D,R as E,S as F,K as H,q as J,G as U,J as W}from"./main-biu6-4ID.js";import{z as m,U as d,E as t,F as c,W as p,a3 as L,M as f,$ as k,H as C,a6 as h,S,J as v}from"./app-4ccm2Cjh.js";/*!
+ * @monogrid/vue-boost v8.2.0-develop.3 Copyright (C) MONOGRID S.R.L. - All Rights Reserved - Unauthorized copying of this file, via any medium is strictly prohibited
+ */const w=m({name:"LanguageSwitcher",setup(){const e=u(),a=g();return{i18n:e,locales:a}}});/*!
+ * @monogrid/vue-boost v8.2.0-develop.3 Copyright (C) MONOGRID S.R.L. - All Rights Reserved - Unauthorized copying of this file, via any medium is strictly prohibited
+ */const y=(e,a)=>{const o=e.__vccOpts||e;for(const[n,r]of a)o[n]=r;return o};/*!
+ * @monogrid/vue-boost v8.2.0-develop.3 Copyright (C) MONOGRID S.R.L. - All Rights Reserved - Unauthorized copying of this file, via any medium is strictly prohibited
+ */const B={key:0,class:"language-switcher"};function R(e,a,o,n,r,x){const i=d("RouterLink");return e.locales&&e.i18n?(t(),c("nav",B,[(t(!0),c(p,null,L(e.locales,(l,s)=>f(e.$slots,"default",{isCurrent:e.i18n.locale.value===s,localeCode:s,localeLabel:l.name},()=>[(t(),k(i,{key:s,to:{params:{locale:s}}},{default:C(()=>[S(h(l.name),1)]),_:2},1032,["to"]))])),256))])):v("",!0)}const $=y(w,[["render",R]]);export{$ as LanguageSwitcher,N as addRouterHooks,V as changeLocale,_ as getI18n,j as getPreferredLanguage,g as getTranslations,z as getTranslationsInjectionKey,u as i18n,D as i18nInjectionKey,E as loadLocaleMessages,F as resolveLocale,H as setDefaultLocale,J as setTranslations,U as setupI18n,W as useLocalizedRoutes};
+//# sourceMappingURL=index-DD8sf_Ul.js.map

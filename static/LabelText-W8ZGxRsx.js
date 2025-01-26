@@ -1,0 +1,2 @@
+import{z as t,_ as r,E as n,F as p,M as l,I as c}from"./app-4ccm2Cjh.js";const i=t({name:"LabelText",components:{},props:{primary:{type:Boolean,default:!1}},setup(e,{attrs:a,slots:s,emit:o}){return{}}});function d(e,a,s,o,m,u){return n(),p("span",{class:c(["label label2 inline-block p-1 case-upper c-white",{"bg-blue":e.primary,outlined:!e.primary}])},[l(e.$slots,"default",{},void 0,!0)],2)}const b=r(i,[["render",d],["__scopeId","data-v-2056bfd8"]]);export{b as L};
+//# sourceMappingURL=LabelText-W8ZGxRsx.js.map
